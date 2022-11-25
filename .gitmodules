@@ -1,0 +1,6 @@
+[submodule "ushell"]
+	path = ushell
+	url = https://github.com/matthiasbock/ushell
+[submodule "ucurses"]
+	path = ucurses
+	url = https://github.com/matthiasbock/ucurses
